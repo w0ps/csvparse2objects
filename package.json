@@ -1,0 +1,20 @@
+{
+  "name": "csvparse2objects",
+  "version": "1.0.0",
+  "description": "parses csv to array of object having keys per column",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "parse"
+  ],
+  "author": "= <=> (=)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "csv": "^0.4.6",
+    "underscore": "^1.8.3"
+  }
+}
